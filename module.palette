@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bajaObjectGraph version="4.0" reversibleEncodingKeySource="none">
+	<p m="b=baja" t="b:UnrestrictedFolder">
+		<p n="TestWidget" h="2" m="wb=workbench" t="wb:WebWidget">
+			<p n="layout" m="ui=bajaui" t="ui:Layout" v="0.0,0.0,640.0,480.0"/>
+			<p n="js" t="b:Ord" v="view:KitPxKsv:TestWidget"/>
+			<p n="wbViewBinding" h="4" t="wb:WbViewBinding"/>
+			<p n="Color" v="#FF00FF"/>
+		</p>
+	</p>
+</bajaObjectGraph>

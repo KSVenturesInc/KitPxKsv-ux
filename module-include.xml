@@ -1,0 +1,4 @@
+<types>
+  <!--com.travish.KitPxKsv.ux-->
+  <type class="com.travish.KitPxKsv.ux.BTestWidget" name="TestWidget"/>
+</types>

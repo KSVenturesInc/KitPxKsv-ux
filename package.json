@@ -1,0 +1,24 @@
+{
+  "name": "KitPxKsv",
+  "description": "A collection of widgets made by K&S Ventures",
+  "version": "0.1.0",
+  "homepage": "",
+  "author": {
+    "name": "TravisH",
+    "email": "travish@ksv.us"
+  },
+  "bugs": {
+    "url": ""
+  },
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "grunt ci"
+  },
+  "devDependencies": {
+    "grunt": "~1.0.1",
+    "grunt-niagara": "^0.1.23"
+  },
+  "keywords": []
+}
